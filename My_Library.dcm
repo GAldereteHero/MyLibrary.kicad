@@ -1,0 +1,75 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0734120114
+D RF Connectors / Coaxial Connectors MCC   ST PCB-JCK STD SMT
+F https://www.molex.com/pdm_docs/sd/734120114_sd.pdf
+$ENDCMP
+#
+$CMP 2337019-1
+D RF Connectors / Coaxial Connectors MicroCoax receptacle UMCC Gen 1
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7FC-2337019%7FA3%7Fpdf%7FEnglish%7FENG_CD_C-2337019_A3.pdf%7F2337019-1
+$ENDCMP
+#
+$CMP AL5801
+D Driver de corriente constante para LED 350ma
+$ENDCMP
+#
+$CMP Ai-Thinker-Ra-01
+D Ai-Thinker LoRa Module Ra-01
+K Ra-01 LoRa
+F https://mikroelectron.com/Product/10KM-433M-LORA-LONG-RANGE-WIRELESS-MODULE-RA-01
+$ENDCMP
+#
+$CMP Conn_02x20_Top_Bottom
+D Generic connector, double row, 02x20, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP LM2596S-12
+D 12V 3A Step-Down Voltage Regulator, TO-263
+K Step-Down Voltage Regulator 12V 3A
+F http://www.ti.com/lit/ds/symlink/lm2596.pdf
+$ENDCMP
+#
+$CMP LM2596S-3.3
+D 3.3V 3A Step-Down Voltage Regulator, TO-263
+K Step-Down Voltage Regulator 3.3V 3A
+F http://www.ti.com/lit/ds/symlink/lm2596.pdf
+$ENDCMP
+#
+$CMP LM2596S-5
+D 5V 3A Step-Down Voltage Regulator, TO-263
+K Step-Down Voltage Regulator 5V 3A
+F http://www.ti.com/lit/ds/symlink/lm2596.pdf
+$ENDCMP
+#
+$CMP LM2596S-ADJ
+D Adjustable 3A Step-Down Voltage Regulator, TO-263
+K Step-Down Voltage Regulator Adjustable 3A
+F http://www.ti.com/lit/ds/symlink/lm2596.pdf
+$ENDCMP
+#
+$CMP NEO-6M-0-001
+D GPS Module
+F https://www.u-blox.com/sites/default/files/products/documents/NEO-6_DataSheet_%28GPS.G6-HW-09005%29.pdf
+$ENDCMP
+#
+$CMP Q_NMOS_DGS
+D N-MOSFET transistor, drain/gate/source
+K transistor NMOS N-MOS N-MOSFET
+F ~
+$ENDCMP
+#
+$CMP Q_PMOS_GSD
+D P-MOSFET transistor, gate/source/drain
+K transistor PMOS P-MOS P-MOSFET
+F ~
+$ENDCMP
+#
+$CMP STM32L412K8T6
+D STMICROELECTRONICS - STM32L412K8T6 - ARM MCU, STM32 Family STM32L4 Series Microcontrollers, ARM Cortex-M4, 32bit, 80 MHz, 128 KB, 40 KB
+F https://www.mouser.com/datasheet/2/389/stm32l412c8-1505426.pdf
+$ENDCMP
+#
+#End Doc Library
