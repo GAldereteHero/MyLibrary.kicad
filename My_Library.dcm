@@ -67,6 +67,11 @@ K transistor PMOS P-MOS P-MOSFET
 F ~
 $ENDCMP
 #
+$CMP STM32G070KBT6
+D STMICROELECTRONICS - STM32G070KBT6 - ARM MCU, ARM Cortex-M0, 32bit, 64 MHz, 128 KB, 36 KB
+F https://datasheet.lcsc.com/lcsc/2005192135_STMicroelectronics-STM32G070KBT6_C529339.pdf
+$ENDCMP
+#
 $CMP STM32L412K8T6
 D STMICROELECTRONICS - STM32L412K8T6 - ARM MCU, STM32 Family STM32L4 Series Microcontrollers, ARM Cortex-M4, 32bit, 80 MHz, 128 KB, 40 KB
 F https://www.mouser.com/datasheet/2/389/stm32l412c8-1505426.pdf
